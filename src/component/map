@@ -1,0 +1,5 @@
+update the code such that each time a user clicks on a letter  in the 
+letters array they must click to confirm submission,
+
+ if the letter guessed form the array is correct and is a letter in the correct answer, the letter should be pushed to the setWordArraywithunderscore and string are updated with the correct submission and the array of letters are refreshed :  
+ 
